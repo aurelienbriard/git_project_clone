@@ -1,5 +1,1 @@
-<<<<<<< branche2
-Travaille sur branche 2
-=======
-travaille sur branche 1
->>>>>>> Branche 1
+branche 1
